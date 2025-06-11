@@ -1,5 +1,19 @@
 project:
   title: "xx test blog"
+  type: website
+  output-dir: docs
+website:
+  title: "xx's wonderful blog"
+  navbar:
+   right:
+     - about.qmd
+     - icon: github
+       href: https://github.com/
+     - icon: twitter
+       href: https://twitter.com
+format:
+  html:https://github.com/Xuxun28/my-wonderful-life-blog.git
+  theme: cosmo
+  css: styles.css
 
 editor: visual
-

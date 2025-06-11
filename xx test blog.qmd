@@ -1,6 +1,13 @@
 ---
 title: "xx test blog"
 ---
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Your Name's Health Data Science Blog"
+---
 
 ## Quarto
 

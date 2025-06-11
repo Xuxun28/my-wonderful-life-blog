@@ -1,12 +1,15 @@
 ---
-title: "xx test blog"
+title: "xx's wonderful blog"
 ---
-project:
-  type: website
-  output-dir: docs
-  
-website:
-  title: "Your Name's Health Data Science Blog"
+listing: 
+  contents:posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-u: false
+page-layout: full
+title-block-banner: true
 ---
 
 ## Quarto
